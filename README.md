@@ -10,7 +10,7 @@ This repository contains code for paper "3D Moments from Near-Duplicate Photos",
 > [Janne Kontkanen](https://www.linkedin.com/in/jannekontkanen/)   
 > CVPR 2022
 
-#### [Project Page](https://3d-moments.github.io/) | [Paper](https://arxiv.org/abs/2205.06255)
+#### [Project Page](https://3d-moments.github.io/) | [Paper](https://arxiv.org/abs/2205.06255) | :rocket: [Web Demo and Docker image on Replicate](https://replicate.com/google-research/3d-moments)
 ![video](assets/teaser.gif)
 
 ## Prerequisites
